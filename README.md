@@ -1,8 +1,8 @@
 <h1>Welcome To my Page</h1>
-- 👋 Hi, I’m @vipulattri
-- 👀 I’m interested in developement
-- 🌱 I’m currently learning javascript,java ,gsap,locomotive js, react
-- 📫 My contact no is 7876133531
+- 👋 Hi, I’m @vipulattri <br>
+- 👀 I’m interested in developement <br>
+- 🌱 I’m currently learning javascript,java ,gsap,locomotive js, react <br>
+- 📫 My contact no is 7876133531 <br>
 
 <!---
 vipulattri/vipulattri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
