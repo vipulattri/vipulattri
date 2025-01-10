@@ -47,5 +47,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.buymeacoffee.com/vipulattri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" 
 <br>
                                                                     
-![GitHub Views](https://komarev.com/ghpvc/?username=vipulattri&color=FAC151
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=vipulattri)
