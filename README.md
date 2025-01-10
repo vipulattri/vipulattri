@@ -44,8 +44,5 @@ You can click the Preview link to take a look at your changes.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vipulattri&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
-<a href="https://www.buymeacoffee.com/vipulattri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-[![GitHub Views](https://komarev.com/ghpvc/?username=vipulattri&color=FAC151)][1]
+<a href="https://www.buymeacoffee.com/vipulattri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" 
 ![GitHub Views](https://komarev.com/ghpvc/?username=vipulattri)
