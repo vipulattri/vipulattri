@@ -38,7 +38,11 @@ You can click the Preview link to take a look at your changes.
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Views](https://komarev.com/ghpvc/?username=vipulattri&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=vipulattri)
+
+
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vipulattri&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
