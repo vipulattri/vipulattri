@@ -18,7 +18,7 @@
 - 🔍 Exploring backend magic with Node.js and Express  
 - 🎨 Passionate about UI/UX & micro-interactions (GSAP, Locomotive)  
 - 📞 Reach me at: **7876133531**  
-- 📫 Email: **vipulattri@gmail.com**  
+- 📫 Email: **attrivipul72@gmail.com**  
 - ❤️ Fun Fact: I can spend hours debugging and still enjoy it!
 
 ---
