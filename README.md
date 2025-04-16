@@ -1,7 +1,7 @@
 <!-- GitHub ReadMe - vipulattri -->
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/687474..." alt="Welcome Banner" style="max-width: 100%; height: auto;" />
+  <img src="https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/687474" alt="Welcome Banner" style="max-width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">Hi there, I'm Vipul Attri 👋</h1>
